@@ -1,0 +1,6 @@
+tqdm==4.67.1
+torch==2.7.1
+torchaudio==2.7.1
+numpy==2.2.6
+gradio==5.39.0
+gradio_client==1.11.0
